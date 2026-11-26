@@ -2,6 +2,8 @@
 
 A small desktop app for printing text labels on a Brother QL-700 (Linux).
 
+![The Label Printer window: label settings on the left, preview on the right](docs/screenshot.png)
+
 - Type one or more lines; the text is sized to fit the label automatically
 - Live black-and-white preview
 - Standard Brother DK die-cut, round and continuous rolls
